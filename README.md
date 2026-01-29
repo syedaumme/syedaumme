@@ -1,7 +1,7 @@
 
 <!-- ===================== TERMINAL HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=22c55e&center=true&vCenter=true&width=1000&lines=$+WHOAMI;SYEDA+UMME+KULSUM;$+ROLE;SRE+%7C+DEVOPS+%7C+APPLICATION+SUPPORT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=1200&color=22c55e&center=true&vCenter=true&width=1000&lines=$+WHOAMI;SYEDA+UMME+KULSUM;$+ROLE;SRE+%7C+DEVOPS+%7C+APPLICATION+SUPPORT" />
 </p>
 
 <p align="center">
