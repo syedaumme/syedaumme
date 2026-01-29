@@ -48,16 +48,7 @@ Data          : SQL, metrics, logs
 Applications  : Flask, backend services
 Operations    : Monitoring, incident support
 ```
-## 🧭 How I Think About Systems
-```mermaid
-flowchart TB
-    CLI["CLI / User Input"] --> Shell["Shell Scripts"]
-    Shell --> Linux["Linux OS"]
-    Linux --> CPU["CPU"]
-    Linux --> Memory["Memory"]
-    Linux --> Disk["Disk"]
-    Linux --> Network["Network"]
-```
+
 <p align="center">
   <em>
     Focus: system inspection • shell automation • fundamentals
